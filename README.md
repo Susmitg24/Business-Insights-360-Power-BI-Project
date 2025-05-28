@@ -10,4 +10,4 @@ Business Insights 360 is a dynamic Power BI dashboard designed to deliver a comp
 -  Supply Chain View: Monitor forecast accuracy, assess demand-supply gaps, and review net forecast errors to improve operational efficiency and planning accuracy.
 -  Executive Summary View: Get a comprehensive overview of business performance with high-level KPIs, revenue breakdowns, and division-level summaries for strategic decision-making.
 
-# scfh
+
